@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Functional Enrichment Studio"
+type: software
+authors:
+  - family-names: "Fernandez Vidal"
+    given-names: "Leyden"
+repository-code: "https://github.com/microbioinformatic/Functional-Enrichment-Studio"
+abstract: >
+  Client-side functional enrichment app: upload an annotations table and a gene
+  list, choose a term family (KEGG KO/Pathway, COG, PFAM, GO, EC, Module, Reaction,
+  BRITE, rclass, TC, CAZy, BiGG), and explore results with interactive charts.
+keywords:
+  - bioinformatics
+  - functional enrichment
+  - KEGG
+  - GO
+  - PFAM
+  - Next.js
+  - Plotly
+  - client-side
+date-released: "2025-09-09"
+preferred-citation:
+  type: software
+  title: "Functional Enrichment Studio"
+  authors:
+    - family-names: "Fernandez Vidal"
+      given-names: "Leyden"
+  repository-code: "https://github.com/microbioinformatic/Functional-Enrichment-Studio"
+  date-released: "2025-09-09"
