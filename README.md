@@ -7,7 +7,12 @@ Functional Enrichment Studio app: upload annotations table + a gene list, pick a
 Main page: https://hugston.com/bioinfo
 
 
-https://github.com/user-attachments/assets/81697cfd-cea0-48da-9e79-b03cc5d01086
+## Demo video
+[![Watch the demo](https://img.youtube.com/vi/cHy_KOVhJqo/hqdefault.jpg)](https://youtu.be/cHy_KOVhJqo)
+
+## Files used in the demo
+
+1)
 
 
 # Features
