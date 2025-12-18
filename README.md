@@ -10,9 +10,7 @@ Main page: https://hugston.com/bioinfo
 ## Demo video
 [![Watch the demo](https://img.youtube.com/vi/cHy_KOVhJqo/hqdefault.jpg)](https://youtu.be/cHy_KOVhJqo)
 
-## Files used in the demo
-
-## Data files
+## Data files used in the demo
 
 1. **eggNOG-mapper annotation file for two MAGs**  
    - [`Galaxy12_epsi_chloro.tsv`](Galaxy12_epsi_chloro.tsv)
