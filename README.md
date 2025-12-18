@@ -12,7 +12,14 @@ Main page: https://hugston.com/bioinfo
 
 ## Files used in the demo
 
-1)
+## Data files
+
+1. **eggNOG-mapper annotation file for two MAGs**  
+   - [`Galaxy12_epsi_chloro.tsv`](Galaxy12_epsi_chloro.tsv)
+
+2. **Chlorobi-related MAG gene list (Excel format)**  
+   - [`chloro.xlsx`](chloro.xlsx)
+
 
 
 # Features
