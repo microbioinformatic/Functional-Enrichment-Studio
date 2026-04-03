@@ -4,7 +4,7 @@
 Functional Enrichment Studio app: upload annotations table + a gene list, pick a factor (KO, Pathway, COG, PFAM, GO, EC, Module, Reaction, BRITE, rclass, TC, CAZy, BiGG), hit Run, and explore analysis results via table or charts.
 
 
-Main page: https://hugston.com/bioinfo
+Main page: [https://bionomic.se/bioinfo.html](https://bionomic.se/bioinfo.html)
 
 
 ## Demo video
